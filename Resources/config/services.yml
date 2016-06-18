@@ -1,0 +1,4 @@
+services:
+#    did_ungar_robot_txt.example:
+#        class: DidUngar\RobotTxtBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
