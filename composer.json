@@ -1,7 +1,7 @@
 {
-    "name": "DidUngar/RobotTxtBundle",
+    "name": "DidUngar/RobotsTxtBundle",
     "type": "library",
-    "description": "Bundle for send robot.txt.",
+    "description": "Bundle for send robots.txt.",
     "authors": [
         {
             "name": "Didier Ungar",
