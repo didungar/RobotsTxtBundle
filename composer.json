@@ -1,0 +1,23 @@
+{
+    "name": "DidUngar/RobotTxtBundle",
+    "type": "library",
+    "description": "Bundle for send robot.txt.",
+    "authors": [
+        {
+            "name": "Didier Ungar",
+            "email": "didungar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["/"]
+    },
+	"require": {
+		"php": ">=5.3.0",
+		"ext-imap": "*"
+	},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
