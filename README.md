@@ -1,12 +1,15 @@
 # RobotTxtBundle
 
-# Remove old version :
+## Remove old version :
 rm web/robots.txt
 
 
-# Add to routing.yml :
+## Add to routing.yml :
 
 did_ungar_robot_txt:
     resource: "@DidUngarRobotsTxtBundle/Controller/"
     type:     annotation
     prefix:   /
+
+## Add to AppKernel.php
+    new DidUngar\RobotsTxtBundle\DidUngarRobotsTxtBundle(),
