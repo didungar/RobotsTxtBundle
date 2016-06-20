@@ -13,3 +13,6 @@ did_ungar_robot_txt:
 
 ## Add to AppKernel.php
     new DidUngar\RobotsTxtBundle\DidUngarRobotsTxtBundle(),
+
+## Change environement default allow ( in default, allow is only for PROD )
+    robots_allow
